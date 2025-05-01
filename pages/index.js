@@ -1,4 +1,4 @@
-function Home(params) {
+function Home() {
   return <h1>Obrigado por seu meu maior incetivo, mãe! ❤️</h1>;
 }
 
